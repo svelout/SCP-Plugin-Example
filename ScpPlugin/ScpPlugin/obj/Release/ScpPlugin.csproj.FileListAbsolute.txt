@@ -1,0 +1,2 @@
+C:\Users\stepa\source\repos\SnakeGame-WinFormsEdition\ScpPlugin\ScpPlugin\obj\Release\ScpPlugin.csproj.AssemblyReference.cache
+C:\Users\stepa\source\repos\SnakeGame-WinFormsEdition\ScpPlugin\ScpPlugin\obj\Release\ScpPlugin.csproj.CoreCompileInputs.cache
