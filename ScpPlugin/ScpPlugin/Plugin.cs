@@ -51,6 +51,6 @@ namespace ScpPlugin
             Player.Joined -= player.OnJoined;
             server = null;
             player = null;
-        }//LOL
+        }//LOLL
     }
 }
